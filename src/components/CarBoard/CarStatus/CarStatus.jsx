@@ -38,7 +38,7 @@ export const CarStatus = () => {
 
             <div className="md:flex md:items-center md:justify-between">
                 <h2 className="md:text-xl md:font-bold">Live Car Status</h2>
-                <p className="md:flex md:items-center md:gap-1.5 md:py-1 md:px-2 md:bg-gray-100 md:rounded-md"><HiAdjustmentsHorizontal />Filter</p>
+                <p className="md:flex md:items-center md:gap-1.5 md:py-1 md:px-2 md:bg-gray-100 md:rounded-md md:cursor-pointer"><HiAdjustmentsHorizontal />Filter</p>
             </div>
 
             <div className="md:overflow-x-auto md:text-gray-500">

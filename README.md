@@ -1,12 +1,45 @@
-# React + Vite
+# 🚗 Car Rent Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant and responsive **Car Rental Dashboard** built with **React** and **Tailwind CSS**.  
+It features a sleek hover-to-expand sidebar, daily rental statistics, and a detailed overview of cars, drivers, and availability.  
+This project demonstrates **modern UI/UX design** and **data visualization** skills.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View Live Project](https://car-rent-dash-board.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Screenshots
+![Screenshot_3-9-2025_2032_car-rent-dash-board netlify app](https://github.com/user-attachments/assets/67c1127f-20e5-483f-b1fd-aa9a3a4b5e2f)
+
+
+
+---
+
+## 🛠️ Built With
+
+- **React.js** – Component-based frontend  
+- **Tailwind CSS** – Utility-first styling  
+- **Recharts** – For data visualization (Pie & Line charts)  
+
+---
+
+## 🧑‍🎨 Highlights
+
+- ✨ **Hover Sidebar** for a clean and minimalist layout  
+- 📊 **Daily Stats Section** with income, expense, and hire vs cancel ratios  
+- 🚘 **Car Details & Driver Info** with availability tracking  
+- 📈 **Interactive Charts** for rental trends and analytics  
+- 📱 **Fully Responsive Design** that adapts across all devices  
+
+---
+
+## 📜 Author
+
+**Rajat Sharma**  
+🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](#)
+
+---

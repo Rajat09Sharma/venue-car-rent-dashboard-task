@@ -40,6 +40,7 @@ This project demonstrates **modern UI/UX design** and **data visualization** ski
 ## 📜 Author
 
 **Rajat Sharma**  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](#)
+[🔗 GitHub](https://github.com/Rajat09Sharma/Rajat09Sharma)
+ | [LinkedIn](https://www.linkedin.com/in/rajat-sharma09)
 
 ---
